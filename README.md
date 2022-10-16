@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theavatarcode&label=Profile%20views&color=0e75b6&style=flat" alt="theavatarcode" /> </p>
 
-- 🌱 I’m currently learning **AI, Tensorflow**
-
 - 👨‍💻 All of my projects are available at [https://github.com/theavatarcode](https://github.com/theavatarcode)
 
 - 📄 Know about my experiences [https://newt-n.netlify.app/](https://newt-n.netlify.app/)
