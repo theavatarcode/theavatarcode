@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanakorn Sornubon Age 18</h1>
-<h3 align="center">A passionate Software engineer from Thailand</h3>
+<h3 align="center">A passionate AI from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theavatarcode&label=Profile%20views&color=0e75b6&style=flat" alt="theavatarcode" /> </p>
 
